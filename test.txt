@@ -1,3 +1,4 @@
 123456
+git is version system tool
 
 git config --global core.editor "'F:\Notepad++\notepad++.exe' -multiInst -notabbar -nosession -noPlugin '$*'"
